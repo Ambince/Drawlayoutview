@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="10dp"
-            android:text="黑马新闻"
+            android:text="新闻"
             android:textColor="#FFF"
             android:textSize="24sp" />
     </LinearLayout>
